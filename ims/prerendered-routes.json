@@ -1,0 +1,33 @@
+{
+  "routes": [
+    "/",
+    "/auth",
+    "/auth/signin",
+    "/help",
+    "/help/user-manual",
+    "/investigations",
+    "/investigations/add",
+    "/investigations/manage",
+    "/logs",
+    "/logs/access",
+    "/logs/transactions",
+    "/my-works",
+    "/my-works/all",
+    "/my-works/completed",
+    "/my-works/processing",
+    "/notfound",
+    "/reports",
+    "/reports/inquiry",
+    "/system_data",
+    "/system_data/branches",
+    "/system_data/branches/add",
+    "/system_data/designations",
+    "/system_data/designations/add",
+    "/system_data/organizations",
+    "/system_data/organizations/add",
+    "/user-manual",
+    "/users",
+    "/users/add",
+    "/users/manage"
+  ]
+}
